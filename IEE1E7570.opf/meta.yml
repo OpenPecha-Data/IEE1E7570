@@ -1,0 +1,18 @@
+id: IEE1E7570
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:29:48.890696
+last_modified: 2023-01-04 11:29:48.890713
+source_metadata:
+  collections:
+  - Apang Tertön Series
+  - Works of Tibetan Masters
+bases:
+  7FB3:
+    title: A Short Prayer to Chöying Dorje
+    base_file: 7FB3.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
